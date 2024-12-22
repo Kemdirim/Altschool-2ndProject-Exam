@@ -87,7 +87,7 @@ Replace the default content of the `index.html` file with the HTML file you crea
 1. Go to the EC2 dashboard and select the instance.
 2. The public IPv4 address is displayed among other instance information. Scroll down to view it.
 3. Copy the IP address and search in any browser. The public IP address for my instance is: **3.85.13.116**
-   ![My Simple Landing Page shown in my browser]()
+   ![My Simple Landing Page shown in my browser](http.png)
 
 
 ## STEP 5: Bonus Task – Configure HTTPS for the Web Server Using "Let’s Encrypt" Free SSL Certificate
@@ -156,7 +156,7 @@ Replace the default content of the `index.html` file with the HTML file you crea
    [https://kemdirim.mooo.com/](https://kemdirim.mooo.com/)
 
 3. **Screenshot of the HTML Page in a Browser**:  
-   *(Attach the screenshot here.)*
+   ![My Simple HTML Page provisioned on a Linux Server](https.png) 
 
 
 
