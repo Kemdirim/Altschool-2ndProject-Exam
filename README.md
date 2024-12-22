@@ -51,7 +51,7 @@ Let's use the Apache2 web server:
 ### Create a Simple HTML Page
 
 1. Build a simple HTML landing page using Visual Studio Code or any text editor.  
-   *(My `index.html` file can be found here.)*
+   My `index.html` file can be found here ![...](index.html)
 
 2. Navigate to and open the default `index.html` file in the `/var/www/html` directory using the nano text editor:  
    ```bash
@@ -86,7 +86,8 @@ Replace the default content of the `index.html` file with the HTML file you crea
 
 1. Go to the EC2 dashboard and select the instance.
 2. The public IPv4 address is displayed among other instance information. Scroll down to view it.
-3. The public IP address for my instance is: **3.85.13.116**
+3. Copy the IP address and search in any browser. The public IP address for my instance is: **3.85.13.116**
+   ![My Simple Landing Page shown in my browser]()
 
 
 ## STEP 5: Bonus Task – Configure HTTPS for the Web Server Using "Let’s Encrypt" Free SSL Certificate
